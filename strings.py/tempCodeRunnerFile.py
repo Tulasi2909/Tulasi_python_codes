@@ -1,0 +1,1 @@
+ # if "not" in name and "poor" in name:

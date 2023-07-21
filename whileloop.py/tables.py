@@ -1,0 +1,9 @@
+i=2
+k=0
+while i<=5:
+    j=1
+    while j<=10:
+        k=i*j
+        print(f"{i}*{j}={k}")
+        j+=1
+    i+=1
